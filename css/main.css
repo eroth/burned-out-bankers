@@ -55,3 +55,14 @@ hr {
     margin: auto;
     width: 40%;
 }
+
+/*---------------------------------------------*/
+.how-social {
+  color: #fff;
+  font-size: 30px;
+  background-color: transparent;
+}
+
+.how-social:hover {
+  color: #e173fc;
+}
